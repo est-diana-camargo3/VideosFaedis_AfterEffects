@@ -1,0 +1,22 @@
+El registro de procesamiento de Adobe After Effects v25.0 Windows 64 para el procesamiento del proyecto "Testimonio_LeytonNubia_after_011_Subtitulos.aep"
+
+ se inició en 6/05/2026 a las 10:37:06 a. m.
+
+  6/05/2026 10:37:06 a. m.: Iniciando composición "Outro".
+
+  Salida a: C:\Users\USUARIO\Downloads\Outro_1.mp4    6/05/2026 10:37:17 a. m.: Composición finalizada "Outro".
+
+
+  6/05/2026 10:37:17 a. m.: Iniciando composición "3_Intermedio_Testimonio_LeytonNubia_001".
+
+  Salida a: C:\Users\USUARIO\Downloads\3_Intermedio_Testimonio_LeytonNubia_001.mp4    6/05/2026 10:38:26 a. m.: Composición finalizada "3_Intermedio_Testimonio_LeytonNubia_001".
+
+
+  6/05/2026 10:38:26 a. m.: Iniciando composición "Intro_VideoTestimonio_001".
+
+  Salida a: C:\Users\USUARIO\Documents\GitHub\VideosFaedis_AfterEffects\Intro_VideoTestimonio_001 carpeta\ResultadosEnVideo\Intro_VideoTestimonio_004.mp4    6/05/2026 10:40:09 a. m.: Composición finalizada "Intro_VideoTestimonio_001".
+
+
+  Tiempo total transc.: 3 min, 1 s
+Registro cerrado en 6/05/2026 a las 10:40:09 a. m.
+
